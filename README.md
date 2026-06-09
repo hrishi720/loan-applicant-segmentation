@@ -1,5 +1,3 @@
-# loan-applicant-segmentation
-
 # 🏦 Loan Applicant Segmentation & Financial Behavior Analysis
 
 ## 📌 Project Overview
